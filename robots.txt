@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ersuik.github.io/sitemap/sitemap.KsHM.gz
